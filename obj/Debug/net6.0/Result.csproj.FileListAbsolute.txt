@@ -1,0 +1,15 @@
+C:\GeekBrains\FinalWork\Result\bin\Debug\net6.0\Result.exe
+C:\GeekBrains\FinalWork\Result\bin\Debug\net6.0\Result.deps.json
+C:\GeekBrains\FinalWork\Result\bin\Debug\net6.0\Result.runtimeconfig.json
+C:\GeekBrains\FinalWork\Result\bin\Debug\net6.0\Result.dll
+C:\GeekBrains\FinalWork\Result\bin\Debug\net6.0\Result.pdb
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.csproj.AssemblyReference.cache
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.AssemblyInfoInputs.cache
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.AssemblyInfo.cs
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.dll
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\refint\Result.dll
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.pdb
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\Result.genruntimeconfig.cache
+C:\GeekBrains\FinalWork\Result\obj\Debug\net6.0\ref\Result.dll
